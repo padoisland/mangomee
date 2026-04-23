@@ -53,6 +53,7 @@ body {
   color: #4b3628;
   background: #fffdf7;
   line-height: 1.6;
+  cursor: url(../image/cursor.png);
 }
 
 section {
